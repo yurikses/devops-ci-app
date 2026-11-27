@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/yurikses/devops-ci-app"
+app_tag: "fe13b0504396ea25b89d453ef4eef5b852bd4082"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
